@@ -1,0 +1,7 @@
+# tested with Python 3.12.3, CPU, Windows 11
+numpy==1.26.4
+scipy==1.13.1
+torch==2.11.0
+pandas==3.0.3
+matplotlib==3.10.9
+pytest==9.1.1

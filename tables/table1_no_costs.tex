@@ -1,0 +1,11 @@
+\begin{tabular}{llrrrr}
+\toprule
+Strategy & Instruments & Mean & Std & 1\% quantile & 5\% quantile \\
+\midrule
+Unhedged & none & $-0.0027$ & $3.4495$ & $-11.5678$ & $-7.3786$ \\
+Black-Scholes delta & stock & $0.0035$ & $0.3587$ & $-0.9729$ & $-0.6000$ \\
+NN (stock only) & stock & $0.0037$ & $0.3822$ & $-0.9571$ & $-0.6043$ \\
+Gamma-neutral & stock + call & $0.0006$ & $0.0955$ & $-0.2346$ & $-0.1242$ \\
+NN (stock + call) & stock + call & $0.0006$ & $0.1039$ & $-0.2782$ & $-0.1459$ \\
+\bottomrule
+\end{tabular}
