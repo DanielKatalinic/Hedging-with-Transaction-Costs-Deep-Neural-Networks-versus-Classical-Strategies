@@ -1,4 +1,0 @@
-subset,n_paths,share_paths,corr_call
-All paths,25000,1.0,0.4005219802924583
-Without late-OTM paths,13574,0.54296,0.9809596281735562
-Late-OTM paths only,11426,0.45704,0.13243609449702634
